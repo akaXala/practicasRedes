@@ -1,0 +1,14 @@
+{
+  "salas": [
+    {
+      "nombreSala": "Sala de prueba",
+      "admin": "Xala",
+      "puertoSala": 7000
+    },
+    {
+      "nombreSala": "Sala de prueba2",
+      "admin": "Xala",
+      "puertoSala": 7001
+    }
+  ]
+}
